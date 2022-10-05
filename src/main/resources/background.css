@@ -1,0 +1,7 @@
+ .bodybg{
+ -fx-background-image: url('background_cpu.jpg');
+ -fx-background-size: 100% 100%;
+}
+
+.chat-area {
+-fx-background-color: #6eb5e4; }
